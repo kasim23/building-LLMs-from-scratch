@@ -1,0 +1,1 @@
+This is an educational repository and follows my journey into learning and mastering LLMs by building one from scratch.
